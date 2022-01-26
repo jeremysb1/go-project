@@ -1,2 +1,2 @@
-# Go Project
+# Pixel Art Editor
 
