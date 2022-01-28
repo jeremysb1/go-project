@@ -16,3 +16,8 @@ Pixel art editor allowing users to make digital art like NFTs.
 
 Go 
 
+## How I built this
+
+## Getting Started
+
+## Roadmap
