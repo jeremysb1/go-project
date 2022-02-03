@@ -8,16 +8,16 @@
 4. Getting Started
 5. Roadmap
 
-## About the Project
+### About the Project
 
-Pixel art editor allowing users to make digital art like NFTs.
+Pixel art editor allowing users to make NFTs.
 
-## Technologies Used
+### Technologies Used
 
 Go 
 
-## How I built this
+### How I built this
 
-## Getting Started
+### Getting Started
 
-## Roadmap
+### Roadmap
